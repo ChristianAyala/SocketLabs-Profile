@@ -1,5 +1,5 @@
-name = SocketLabs
-description = Installs drupal with the socketlabs email tracker system pre-installed
+name = SocketLabs Email Tracking System
+description = Installs Drupal with the SocketLabs email tracker system (and all dependencies) pre-installed
 version = VERSION
 core = 7.x
 dependencies[] = block
