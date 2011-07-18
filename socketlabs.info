@@ -34,7 +34,7 @@ dependencies[] = job_scheduler
 dependencies[] = views
 dependencies[] = views_ui
 dependencies[] = socketlabs_feature
-files[] = standard.profile
+files[] = socketlabs.profile
 
 
 ; Information added by drupal.org packaging script on 2011-06-30
