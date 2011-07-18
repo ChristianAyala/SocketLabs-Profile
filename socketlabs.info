@@ -33,6 +33,7 @@ dependencies[] = feeds_xpathparser
 dependencies[] = job_scheduler
 dependencies[] = views
 dependencies[] = views_ui
+dependencies[] = views_php
 dependencies[] = socketlabs_feature
 files[] = socketlabs.profile
 
